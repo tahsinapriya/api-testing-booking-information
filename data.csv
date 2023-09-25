@@ -1,0 +1,5 @@
+firstName,lastName,checkin,checkout,totalPrice,depositePaid,AdditionalNeeds
+Atif,Ahmed,2023-14-01,2023-14-01,100,TRUE,
+Latif,Ahmed,2023-14-01,2023-14-01,200,TRUE,
+Rawnak,Sarker,2023-14-01,2023-14-01,300,TRUE,
+jennifer,wing,2023-14-01,2023-14-01,500,TRUE,
